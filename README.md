@@ -1,4 +1,4 @@
-# readme generator 
+# readme generator [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 ## Description
 
