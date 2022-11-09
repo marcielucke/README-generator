@@ -3,7 +3,8 @@ const fs = require('fs');
 
 const generateREADME = ({title, motivation, projectLink, installation, usage, credits, license, badges, tests, github, linkedIn, email}) => 
 
-`# ${title}
+`# ${title}   [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+
 
 ## Description
 
