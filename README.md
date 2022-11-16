@@ -3,7 +3,7 @@
 
 ## Description
 
-    This project creates a time efficient solution to writing a README file. The application will prompt the user with relevant questions about their project, and generate a template that summarizes their work. This provides users with a more simple and timely deployment of their own application. This project was created using node.js and JavaScript. 
+This project creates a time efficient solution to writing a README file. The application will prompt the user with relevant questions about their project, and generate a template that summarizes their work. This provides users with a more simple and timely deployment of their own application. This project was created using node.js and JavaScript. 
 
     https://marcielucke.github.io/README-generator/
 
