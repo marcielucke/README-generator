@@ -17,7 +17,7 @@ This project creates a time efficient solution to writing a README file. The app
 - [Credits](#credits)
 - [License](#license)
 - [Contributers](#contributors)
-- [Tests] (#tests)
+- [Tests](#tests)
 - [Contact!](#Contact)
 
 ## Installation
