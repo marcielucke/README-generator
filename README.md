@@ -28,6 +28,8 @@ To install my project you will need the following programs!
 
 ## Usage
 
+![terminal display](./images/creating%20README%20in%20terminal.png)
+
  To use this application begin by confirming that node.js is installed on your device. This can be done by typing node -v in the terminal. Once confirmed, type in npm init -y. Following this, head to your command line and run the index.js file through node, or by typing " node index.js", from here you will be prompted to answer questions, and a README file will be generated. Simply, relocate the file as needed, and upload!
 
 ## Credits
